@@ -1,0 +1,13 @@
+C:\Users\sehin\source\repos\PetrolProject\PetrolProject\bin\Debug\PetrolProject.exe.config
+C:\Users\sehin\source\repos\PetrolProject\PetrolProject\bin\Debug\PetrolProject.exe
+C:\Users\sehin\source\repos\PetrolProject\PetrolProject\bin\Debug\PetrolProject.pdb
+C:\Users\sehin\source\repos\PetrolProject\PetrolProject\obj\Debug\PetrolProject.csproj.AssemblyReference.cache
+C:\Users\sehin\source\repos\PetrolProject\PetrolProject\obj\Debug\PetrolProject.Form1.resources
+C:\Users\sehin\source\repos\PetrolProject\PetrolProject\obj\Debug\PetrolProject.Properties.Resources.resources
+C:\Users\sehin\source\repos\PetrolProject\PetrolProject\obj\Debug\PetrolProject.csproj.GenerateResource.cache
+C:\Users\sehin\source\repos\PetrolProject\PetrolProject\obj\Debug\PetrolProject.csproj.CoreCompileInputs.cache
+C:\Users\sehin\source\repos\PetrolProject\PetrolProject\obj\Debug\PetrolProject.exe
+C:\Users\sehin\source\repos\PetrolProject\PetrolProject\obj\Debug\PetrolProject.pdb
+C:\Users\sehin\source\repos\PetrolProject\PetrolProject\obj\Debug\PetrolProject.Form4.resources
+C:\Users\sehin\source\repos\PetrolProject\PetrolProject\obj\Debug\PetrolProject.Form3.resources
+C:\Users\sehin\source\repos\PetrolProject\PetrolProject\obj\Debug\PetrolProject.Form2.resources
